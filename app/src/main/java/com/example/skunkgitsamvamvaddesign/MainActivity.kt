@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
         }
         println(" DEV FIRST COMMIT")
         println("Dev two preparing")
+        println("Dev two preparing for second commit")
     }
 
 
