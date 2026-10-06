@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         println(" DEV FIRST COMMIT")
+        println("Dev one preparing ")
     }
 
 
